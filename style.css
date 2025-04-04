@@ -1,0 +1,24 @@
+body{
+    background-color:beige;
+}
+header{
+    font-size: 100px;
+    text-align: center;
+    color:chocolate;
+    font-style: oblique;
+}
+h1{
+    color:coral;
+}
+footer{
+    text-align: right;
+    background-color: burlywood;
+    color:aquamarine
+}
+h4{
+    font-size: 40px;
+    margin-left: 60px;
+    text-align:left;
+   color:crimson;
+   font-style:italic;
+}
